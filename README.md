@@ -29,11 +29,14 @@ Interventions prévues:
 
 Exemple d'un système pour assurer la réplicabilité d'une analyse (AP)
 
+
 ## 02/12: Le test d'hypothèse nulle
 
 Interventions prévues:
 
 ![Null Hypothesis, XKCD](https://imgs.xkcd.com/comics/null_hypothesis.png)
+
+
 
 ## 06/01: L'analyse géométrique de données? Administrer la preuve avec une ACM
 
@@ -41,11 +44,15 @@ Retour sur la théorie statistique de l'AGD. Discussion de la place de l'AGD dan
 
 Interventions prévues:
 
+
+
 ## 03/02: Classifier des individus avec des AGD
 
 Comparaison des techniques de classifications et mise à l'épreuve de l'Analyse géométrique des données.
 
 Interventions prévues:
+
+
 
 ## 02/03: Philosophie Bayésienne
 
@@ -53,14 +60,20 @@ Introduction à la statistique bayesienne.
 
 Interventions prévues:
 
+
+
 ## 30/03: Ma première chaîne de Monte-Carlo
 
 Pratique de la statistique bayesienne.
 
 Interventions prévues:
 
+
+
 ## 04/05: Présentations de travaux
 
 Les deux dernières séances sont réservées à la présentation de travaux des participants du séminaire.
+
+
 
 ## 08/06: Présentations de travaux
