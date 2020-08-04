@@ -1,0 +1,50 @@
+Notes en vrac modèles de mélange fini
+
+
+
+
+il vaut mieux utiliser la loi hypergéomètrique
+
+
+les modèles de mélanges finis (FMM) permettent l’estimation des paramètres
+(probabilité, moyenne, variance, paramètres de régression,. . .) pour chaque classe
+lorsque cette classe n’est pas observée ou pas observable (on parle alors de variable latente)
+C'est un exemple d’apprentissage non-supervisé
+en utilisant des modèles probabilistes
+
+les FMM permettent d’unifier différents modèles proposés la suite
+I comme les modèles à classes latentes proposé par Lazarsfeld et Henry
+
+
+
+L’algorithme espérance-maximisation
+I il peut être montré que l’algorithme EM converge toujours à la différence de
+l’agorithme de Newton-Raphson
+I mais il peut s’agir d’un minimum local
+I en pratique, il est préférable estimer le modèle avec des valeurs de départ
+différentes et de comparer les résultats
+I
+I
+cette approche est implémentée par la méthode stepFlexmix du package R
+Flexmix
+qui ré-estime le modèle et ne conserve que le meilleur au regard de la
+log-vraisemblance
+I la convergence est de plus lente
+I l’algorithme EM et l’algorithme de Newton-Raphson peuvent aussi être combinés
+dans certains cas comme les modèles ZI
+
+
+à la différence de l’algorihtme k-means, les unités ne sont pas effectivement
+attribuées à une classe
+on estime seulement des probabilités d’appartenir aux différentes classes
+I
+le modèle s’apparente à de la logique floue
+les unités ont une probabilité non nulle d’appartenir à chaque classe
+I mais il est parfois nécessaire d’assigner les unités à des classes
+I deux types d’approches (déterministe et aléatoire) :
+I
+I
+assignation « en dur » : on prendre la classe dont la probabilité postérieure est la
+plus élevée
+assignation aléatoire : on utilise les probabilités postérieures pour faire un tirage
+aléatoire de la classe
