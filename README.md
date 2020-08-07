@@ -9,7 +9,7 @@
 * Modèles multiniveaux sur les données Deezer : Sam
 
 * Philosophie bayesienne : SAM et GAB et Pierre
-Référence : Ben Lambert, A Student’s Guide to Bayesian Statistics, 2018
+Référence : Ben Lambert, A Student’s Guide to Bayesian Statistics, 2018 + voir avec H2K s'il a vu passer qqchose là-dessus
 
 * Ma première chaîne de Monte-Carlo (presque!) sans peine GAB & Pierre 
 
