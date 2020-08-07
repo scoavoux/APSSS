@@ -8,9 +8,9 @@
 
 * Modèles multiniveaux sur les données Deezer : Sam
 
-* Philosophie bayesienne : SAM et GAB
+* Philosophie bayesienne : SAM et GAB et Pierre
 
-* Ma première chaîne de Monte-Carlo (presque!) sans peine GAB (?)
+* Ma première chaîne de Monte-Carlo (presque!) sans peine GAB & Pierre 
 
 * Briatte guest star ? SAM
 
@@ -62,7 +62,7 @@ Le séminaire peut être validé par les étudiant.e.s des parcours PDI et Quant
 
 ## 8/12
 
-## 19/01
+## 19/01 
 
 ## 16/02
 
