@@ -1,23 +1,5 @@
 [Ce séminaire](http://www.sciences.sociales.ens.fr/Administrer-la-preuve-statistique.html) vise à construire un espace de discussion et de formation collective sur les questions philosophiques, méthodologiques et pratiques liées à l'inférence statistique.
 
-# Séances à préparer et à placer dans le calendrier
-
-* Analyse géométrique vs. machine learning : le match. Inviter Ph. Cibois et E. Ollion. ANTON
-
-* Modéliser pour classifier : un exemple d'application de modèles de mélanges finis sur données historiques (ANTON)
-
-* Modèles multiniveaux sur les données Deezer : Sam
-
-* Philosophie bayesienne : SAM et GAB et Pierre
-Référence : Ben Lambert, A Student’s Guide to Bayesian Statistics, 2018 + voir avec H2K s'il a vu passer qqchose là-dessus
-
-* Ma première chaîne de Monte-Carlo (presque!) sans peine GAB & Pierre 
-
-* Briatte guest star ? SAM
-
-* Trajectoires et réseaux : apports et limites pour l'étude de la persécution, C. Zalc et P. Mercklé. ANTON
-
-
 # Table des matières
 
 <!-- vim-markdown-toc GFM -->
@@ -50,27 +32,18 @@ Le séminaire est ouvert à des étudiant·e·s avancé·e·s, maîtrisant les b
 
 Les séances ont lieu le mardi de 17h à 19h (lieu à définir).
 
-Elles se déroulent le troisième mardi du mois d'octobre 2020 à juin 2021 : 20/10 ; 17/11 ; 8/12 ; 19/01 ; 16/02 ; 16/03 ; 20/04 ; 18/05 ; 15/06.
+Elles se déroulent le troisième mardi du mois de novembre 2020 à juin 2021 : 17/11 ; 8/12 ; 19/01 ; 16/02 ; 16/03 ; 20/04 ; 18/05 ; 15/06.
 
 ## Validation du séminaire pour l'EHESS ou l'ENS
 Le séminaire peut être validé par les étudiant.e.s des parcours PDI et Quantifier en sciences sociales du Master de Sciences sociales (PSL, ENS, EHESS), ainsi que par les élèves et étudiant.e.s normalien.ne.s dans le cadre du DENS. Validation par assiduité et sur travaux.
 
 # Programme
 
-## 20/10
-
-## 17/11
-
-## 8/12
-
-## 19/01 
-
-## 16/02
-
-## 16/03
-
-## 20/04
-
-## 18/05 : Présentation des travaux des participant·e·s
-
-## 15/06 : Présentation des travaux des participant·e·s
++ 17/11: 
++ 8/12: 
++ 19/01: Samuel Coavoux, "Recommandation et diversité sur un service de streaming musical. Analyse de données d'usages par un modèle multi-niveau"
++ 16/02: François Briatte, "Modéliser des observations dépendantes : analyse de réseaux et modèles ERGM"
++ 16/03: Gabriel Alcaras, Pierre Blavier, Samuel Coavoux, "Philosophie bayesienne"
++ 20/04: Gabriel Alcaras, Pierre Blavier, Samuel Coavoux, Anton Perdoncin, "Modèles bayesiens"
++ 18/05 : Yann Renisio et  Emil Bertilsson, "Refuser l'inaccessible? Quantifier l'ajustement des aspirations aux possibles objectifs de potentiels candidats à l'enseignement supérieur suédois"
++ 15/06 : Présentation des travaux des participant·e·s
