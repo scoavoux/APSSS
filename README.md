@@ -14,7 +14,7 @@ Le séminaire est ouvert à des étudiant·e·s avancé·e·s, maîtrisant les b
 
 Les séances ont lieu le mardi de 17h à 19h (lieu à définir).
 
-Elles se déroulent le troisième mardi du mois de novembre 2020 à juin 2021 : 17/11 ; 8/12 ; 19/01 ; 16/02 ; 16/03 ; 20/04 ; 18/05 ; 15/06.
+Elles se déroulent le troisième mardi du mois de novembre 2020 à juin 2021 : 17/11 ; 15/12 ; 19/01 ; 16/02 ; 16/03 ; 20/04 ; 18/05 ; 15/06.
 
 ## Validation du séminaire pour l'EHESS ou l'ENS
 Le séminaire peut être validé par les étudiant.e.s des parcours PDI et Quantifier en sciences sociales du Master de Sciences sociales (PSL, ENS, EHESS), ainsi que par les élèves et étudiant.e.s normalien.ne.s dans le cadre du DENS. Validation par assiduité et sur travaux.
